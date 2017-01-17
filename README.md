@@ -6,6 +6,6 @@ SquareOff is a simple text-based game that I wrote to teach myself Java. Manage 
 Simply click the launcher to run the game on Mac; use the .jar file to run it on other systems.
 
 ###Tips + Tricks
-* Talk to every stranger you meet- they have valuable information!
-* Visit the healer before you venture off into the unknown!
-* Clever players will discover how to farm monsters to prepare themselves for tougher foes!
+* Talk to every stranger you meet- they might have valuable information
+* Visit the healer before you venture off into the unknown
+* Clever players will discover how to farm easy monsters to prepare themselves for tougher foes
