@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+printf '\e[8;50;100t'
+java -jar SquareOff.jar
