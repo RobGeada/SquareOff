@@ -1,8 +1,11 @@
 # SquareOff
 
-SquareOff is a simple text-based game that I wrote to teach myself Java. Manage your resources to survive as long as you can!
-
+SquareOff is a simple text-based game that I wrote to teach myself Java. Manage your resources to survive as long as you can while you fight monsters and discover new towns!
 
 ###Usage
 Simply click the launcher to run the game on Mac; use the .jar file to run it on other systems.
 
+###Tips + Tricks
+*Talk to every stranger you meet- they have valuable information!
+*Visit the healer before you venture off into the unknown!
+*Clever players will discover how to farm monsters to prepare themselves for tougher foes!
